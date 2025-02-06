@@ -1,7 +1,7 @@
 # JSTARS2024-CropNet
 Repository for our JSTARS paper ''Multiclass Crop Interpretation via a Lightweight Attentive Feature Fusion Network using Vehicle-view Images'' (https://ieeexplore.ieee.org/abstract/document/10731986)
 
-The Dataset can be obtained from (coming soon)
+The GVG Dataset can be obtained from (coming soon)
 
 
 If it is helpful for you, please cite the following references.
