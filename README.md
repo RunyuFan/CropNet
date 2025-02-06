@@ -6,7 +6,7 @@ The Dataset can be obtained from (coming soon)
 
 If it is helpful for you, please cite the following references.
 
-    @ARTICLE{10731986,
+    @ARTICLE{cropnet,
       author={Li, Wenyue and Wu, Bingfang and Fan, Runyu and Tian, Fuyou and Zhang, Miao and Zhou, Zhaoying and Hu, Jun and Feng, Ruyi and Wu, Fangming},
       journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
       title={Multiclass Crop Interpretation via a Lightweight Attentive Feature Fusion Network Using Vehicle-View Images}, 
